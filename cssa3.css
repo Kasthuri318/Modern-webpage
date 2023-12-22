@@ -1,0 +1,14 @@
+.bg1{
+    background-color:rgb(82, 215, 215);
+    
+}
+
+/*footer section*/
+.footer1{
+        background-color: teal;
+        color: whitesmoke;
+}
+.pf1::selection{
+    color: whitesmoke;
+}
+
